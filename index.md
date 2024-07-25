@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Florian Hofmann
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Florian Hofmann
+Game developer.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="address">
+  Malmsbacher Weg 11B
+  90571 Schwaig bei Nürnberg
+  +49 175 6695817
+  <a href="http://astrocreep.de">astrocreep.de</a>
+  <a href="florian@astrocreep.de">florian@astrocreep.de</a>
 </div>
 
 
-## Currently
+## Jobs
 
-Standing on the shoulders of giants
+`01/2023 - now`
+__CTO, Playata GmbH__
 
-### Specialized in
+`04/2013 - 12/2022`
+__Senior Developer, Playata GmbH__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`06/2006 - 03/2013`
+__Senior Interactive Developer, Publicis Modem__
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`09/2003 - 05/2006`
+__Interactive Developer, Publicis__
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2000 - 08/2003`
+__Ausbildung Mediengestalter, Publicis__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`08/1998 - 08/2000`
+__Studium Medientechnik, TU Ilmenau__
 
 
 
-## Awards
+## Games
 
-`2012`
-President, *Royal Society*, London, UK
+### Almost Heroic
+`Client`
+TypeScript, PixiJS, Capacitor.js
 
-Associate, *French Academy of Science*, Paris, France
+`Backend`
+AWS Apigateway, Lambda, DynamoDB, Kinesis, Redshift, Redis, PHP, MySQL
 
+`Platforms`
+iOS, Android
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: July 2024 -->
