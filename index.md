@@ -10,7 +10,7 @@ Game developer.
 </div>
 
 
-## Jobs
+## Professional Experience
 
 `01/2023 - now`
 __CTO, Playata GmbH__
@@ -28,20 +28,19 @@ __Interactive Developer, Publicis__
 ## Education
 
 `09/2000 - 08/2003`
-__Ausbildung Mediengestalter, Publicis__
+__Mediengestalter, Publicis__
 
 `08/1998 - 08/2000`
-__Studium Medientechnik, TU Ilmenau__
-
+__Medientechnik, TU Ilmenau__
 
 
 ## Games
 
 ### Almost Heroic
-__Playata Gmbh__ Casual RPG
+Playata Gmbh, Casual RPG
 
 `Client`
-TypeScript + Pixi.js (Capacitor.js für Mobile)
+TypeScript + Pixi.js (Capacitor.js for Mobile)
 
 `Backend`
 AWS Apigateway + Lambda + DynamoDB
@@ -50,10 +49,10 @@ AWS Apigateway + Lambda + DynamoDB
 iOS, Android
 
 ### Hero Zero
-__Playata Gmbh__ Click and Idle RPG
+Playata Gmbh, Click and Idle RPG
 
 `Client`
-V1: Flash (HTML + Wrapper App für Mobile), V2: Flash + Starling (Adobe Air für Mobile), V3: Haxe + Starling (Capacitor.js für Mobile)
+V1: Flash (HTML + Wrapper App for Mobile), V2: Flash + Starling (Adobe Air for Mobile), V3: Haxe + Starling (Capacitor.js for Mobile)
 
 `Backend`
 PHP + MySQL
@@ -62,7 +61,7 @@ PHP + MySQL
 Web, iOS, Android, Facebook, Steam
 
 ### Big Bang Empire
-__Playata Gmbh__ Click and Idle RPG
+Playata Gmbh, Click and Idle RPG
 
 `Client`
 V1: Flash, V2: Flash + Starling, V3: Haxe + Starling
@@ -74,7 +73,7 @@ PHP + MySQL
 Web, Steam
 
 ### Operation X
-__Playata Gmbh__ Click and Idle RPG
+Playata Gmbh, Click and Idle RPG
 
 `Client`
 Flash
@@ -86,10 +85,10 @@ PHP + MySQL
 Web, Facebook
 
 ### Tiles & Tales
-__Playata Gmbh__ Match X RPG
+Playata Gmbh, Match X RPG
 
 `Client`
-Flash (Adobe Air für Mobile)
+Flash (Adobe Air for Mobile)
 
 `Backend`
 PHP + MySQL
@@ -98,10 +97,10 @@ PHP + MySQL
 iOS, Android, Facebook, Steam
 
 ### Vixen Wars
-__Trillith Entertainment__ NSFW Tower Defense RPG
+Trillith Entertainment, NSFW Tower Defense RPG
 
 `Client`
-Haxe + Starling (PWA für iOS, AdobeAir für Android)
+Haxe + Starling (PWA for iOS, Adobe Air for Android)
 
 `Backend`
 PHP + MySQL
@@ -110,16 +109,29 @@ PHP + MySQL
 Nutaku, Steam
 
 ### BustyBiz
-__Trillith Entertainment__ Idle Miner NSFW Game
+Trillith Entertainment, NSFW Cookie Clicker / Idle Miner
 
 `Client`
-Haxe + Starling (PWA für iOS, AdobeAir für Android)
+Haxe + Starling (PWA for iOS, Adobe Air for Android)
 
 `Backend`
 PHP + MySQL
 
 `Platforms`
 Nutaku, Steam
+
+
+### Naughty Kingdom
+Trillith Entertainment, Match X NSFW RPG
+
+`Client`
+Flash + Starling (PWA for iOS, Adobe Air for Android)
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+Nutaku
 
 
 ## Contact
