@@ -58,7 +58,11 @@ __Hero Zero__
 Click and Wait Idle RPG
 
 `Client`
-V1: Flash (HTML, custom wrapper app for mobile), V2: Flash, Starling (Adobe Air for mobile), V3: Haxe, Starling (Capacitor.js for mobile)
+V1: Flash, HTML with custom wrapper app for mobile
+
+V2: Flash, Starling, Adobe Air for mobile
+
+V3: Haxe, Starling, Capacitor.js for mobile
 
 `Backend`
 PHP, MySQL
@@ -73,7 +77,11 @@ __Big Bang Empire__
 Click and Wait Idle RPG
 
 `Client`
-V1: Flash, V2: Flash, Starling, V3: Haxe, Starling
+V1: Flash
+
+V2: Flash, Starling
+
+V3: Haxe, Starling
 
 `Backend`
 PHP, MySQL
@@ -103,7 +111,7 @@ __Tiles & Tales__
 Match X RPG
 
 `Client`
-Flash (Adobe Air for mobile)
+Flash, Adobe Air for mobile
 
 `Backend`
 PHP, MySQL
@@ -119,7 +127,7 @@ __Vixen Wars__
 NSFW Tower Defense RPG
 
 `Client`
-Haxe, Starling (PWA for iOS, Adobe Air for Android)
+Haxe, Starling, PWA for iOS, Adobe Air for Android
 
 `Backend`
 PHP, MySQL
@@ -134,7 +142,7 @@ __BustyBiz__
 NSFW Cookie Clicker / Idle Miner
 
 `Client`
-Haxe, Starling (PWA for iOS, Adobe Air for Android)
+Haxe, Starling, PWA for iOS, Adobe Air for Android
 
 `Backend`
 PHP, MySQL
@@ -149,7 +157,7 @@ __Naughty Kingdom__
 Match X NSFW RPG
 
 `Client`
-Flash, Starling (PWA for iOS, Adobe Air for Android)
+Flash, Starling, PWA for iOS, Adobe Air for Android
 
 `Backend`
 PHP, MySQL
