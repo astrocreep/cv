@@ -43,10 +43,10 @@ __Almost Heroic__
 Casual RPG
 
 `Client`
-TypeScript + Pixi.js (Capacitor.js for Mobile)
+TypeScript, Pixi.js, Capacitor.js
 
 `Backend`
-AWS Apigateway + Lambda + DynamoDB
+AWS Apigateway, Lambda, DynamoDB, Redshift, Redis, Kinesis, PHP, MySQL
 
 `Platforms`
 iOS, Android
@@ -55,13 +55,13 @@ iOS, Android
 
 __Hero Zero__
 
-Click and Idle RPG
+Click and Wait Idle RPG
 
 `Client`
-V1: Flash (HTML + Wrapper App for Mobile), V2: Flash + Starling (Adobe Air for Mobile), V3: Haxe + Starling (Capacitor.js for Mobile)
+V1: Flash (HTML, custom wrapper app for mobile), V2: Flash, Starling (Adobe Air for mobile), V3: Haxe, Starling (Capacitor.js for mobile)
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 Web, iOS, Android, Facebook, Steam
@@ -70,13 +70,13 @@ Web, iOS, Android, Facebook, Steam
 
 __Big Bang Empire__
 
-Click and Idle RPG
+Click and Wait Idle RPG
 
 `Client`
-V1: Flash, V2: Flash + Starling, V3: Haxe + Starling
+V1: Flash, V2: Flash, Starling, V3: Haxe, Starling
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 Web, Steam
@@ -85,13 +85,13 @@ Web, Steam
 
 __Operation X__
 
-Click and Idle RPG
+Click and Wait Idle RPG
 
 `Client`
 Flash
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 Web, Facebook
@@ -103,10 +103,10 @@ __Tiles & Tales__
 Match X RPG
 
 `Client`
-Flash (Adobe Air for Mobile)
+Flash (Adobe Air for mobile)
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 iOS, Android, Facebook, Steam
@@ -119,10 +119,10 @@ __Vixen Wars__
 NSFW Tower Defense RPG
 
 `Client`
-Haxe + Starling (PWA for iOS, Adobe Air for Android)
+Haxe, Starling (PWA for iOS, Adobe Air for Android)
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 Nutaku, Steam
@@ -134,10 +134,10 @@ __BustyBiz__
 NSFW Cookie Clicker / Idle Miner
 
 `Client`
-Haxe + Starling (PWA for iOS, Adobe Air for Android)
+Haxe, Starling (PWA for iOS, Adobe Air for Android)
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 Nutaku, Steam
@@ -149,17 +149,16 @@ __Naughty Kingdom__
 Match X NSFW RPG
 
 `Client`
-Flash + Starling (PWA for iOS, Adobe Air for Android)
+Flash, Starling (PWA for iOS, Adobe Air for Android)
 
 `Backend`
-PHP + MySQL
+PHP, MySQL
 
 `Platforms`
 Nutaku
 
 
 ## Contact
-__Florian Hofmann__
 
 `Address`
 Malmsbacher Weg 11B
