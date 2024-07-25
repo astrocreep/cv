@@ -51,6 +51,8 @@ AWS Apigateway + Lambda + DynamoDB
 `Platforms`
 iOS, Android
 
+<br>
+
 __Hero Zero__
 
 Click and Idle RPG
@@ -63,6 +65,8 @@ PHP + MySQL
 
 `Platforms`
 Web, iOS, Android, Facebook, Steam
+
+<br>
 
 __Big Bang Empire__
 
@@ -77,6 +81,8 @@ PHP + MySQL
 `Platforms`
 Web, Steam
 
+<br>
+
 __Operation X__
 
 Click and Idle RPG
@@ -89,6 +95,8 @@ PHP + MySQL
 
 `Platforms`
 Web, Facebook
+
+<br>
 
 __Tiles & Tales__
 
@@ -119,6 +127,8 @@ PHP + MySQL
 `Platforms`
 Nutaku, Steam
 
+<br>
+
 __BustyBiz__
 
 NSFW Cookie Clicker / Idle Miner
@@ -132,6 +142,7 @@ PHP + MySQL
 `Platforms`
 Nutaku, Steam
 
+<br>
 
 __Naughty Kingdom__
 
