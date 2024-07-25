@@ -6,7 +6,7 @@ title: Florian Hofmann
 Game developer.
 
 <div id="webaddress">
-  <a href="http://astrocreep.de">astrocreep.de</a> | <a href="florian@astrocreep.de">florian@astrocreep.de</a>
+  <a href="http://astrocreep.de">astrocreep.de</a> | <a href="florian@astrocreep.de">florian@astrocreep.de</a> | <a href="https://astrocreep.github.io/cv/">astrocreep.github.io/cv/</a>
 </div>
 
 
