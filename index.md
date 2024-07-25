@@ -13,31 +13,34 @@ Game developer.
 ## Professional Experience
 
 `01/2023 - now`
-__CTO, Playata GmbH__
+__CTO__ Playata GmbH
 
 `04/2013 - 12/2022`
-__Senior Developer, Playata GmbH__
+__Senior Developer__ Playata GmbH
 
 `06/2006 - 03/2013`
-__Senior Interactive Developer, Publicis Modem__
+__Senior Interactive Developer__ Publicis Modem
 
 `09/2003 - 05/2006`
-__Interactive Developer, Publicis__
+__Interactive Developer__ Publicis
 
 
 ## Education
 
 `09/2000 - 08/2003`
-__Mediengestalter, Publicis__
+__Mediengestalter__ Publicis
 
 `08/1998 - 08/2000`
-__Medientechnik, TU Ilmenau__
+__Medientechnik__ TU Ilmenau
 
 
 ## Games
 
-### Almost Heroic
-Playata Gmbh, Casual RPG
+### Playata GmbH
+
+__Almost Heroic__
+
+Casual RPG
 
 `Client`
 TypeScript + Pixi.js (Capacitor.js for Mobile)
@@ -48,8 +51,9 @@ AWS Apigateway + Lambda + DynamoDB
 `Platforms`
 iOS, Android
 
-### Hero Zero
-Playata Gmbh, Click and Idle RPG
+__Hero Zero__
+
+Click and Idle RPG
 
 `Client`
 V1: Flash (HTML + Wrapper App for Mobile), V2: Flash + Starling (Adobe Air for Mobile), V3: Haxe + Starling (Capacitor.js for Mobile)
@@ -60,8 +64,9 @@ PHP + MySQL
 `Platforms`
 Web, iOS, Android, Facebook, Steam
 
-### Big Bang Empire
-Playata Gmbh, Click and Idle RPG
+__Big Bang Empire__
+
+Click and Idle RPG
 
 `Client`
 V1: Flash, V2: Flash + Starling, V3: Haxe + Starling
@@ -72,8 +77,9 @@ PHP + MySQL
 `Platforms`
 Web, Steam
 
-### Operation X
-Playata Gmbh, Click and Idle RPG
+__Operation X__
+
+Click and Idle RPG
 
 `Client`
 Flash
@@ -84,8 +90,9 @@ PHP + MySQL
 `Platforms`
 Web, Facebook
 
-### Tiles & Tales
-Playata Gmbh, Match X RPG
+__Tiles & Tales__
+
+Match X RPG
 
 `Client`
 Flash (Adobe Air for Mobile)
@@ -96,8 +103,12 @@ PHP + MySQL
 `Platforms`
 iOS, Android, Facebook, Steam
 
-### Vixen Wars
-Trillith Entertainment, NSFW Tower Defense RPG
+
+### Trillith Entertainment
+
+__Vixen Wars__
+
+NSFW Tower Defense RPG
 
 `Client`
 Haxe + Starling (PWA for iOS, Adobe Air for Android)
@@ -108,8 +119,9 @@ PHP + MySQL
 `Platforms`
 Nutaku, Steam
 
-### BustyBiz
-Trillith Entertainment, NSFW Cookie Clicker / Idle Miner
+__BustyBiz__
+
+NSFW Cookie Clicker / Idle Miner
 
 `Client`
 Haxe + Starling (PWA for iOS, Adobe Air for Android)
@@ -121,8 +133,9 @@ PHP + MySQL
 Nutaku, Steam
 
 
-### Naughty Kingdom
-Trillith Entertainment, Match X NSFW RPG
+__Naughty Kingdom__
+
+Match X NSFW RPG
 
 `Client`
 Flash + Starling (PWA for iOS, Adobe Air for Android)
@@ -137,10 +150,12 @@ Nutaku
 ## Contact
 __Florian Hofmann__
 
+`Address`
 Malmsbacher Weg 11B
 
 90571 Schwaig bei Nürnberg
 
+`Phone`
 +49 175 6695817
 
 
