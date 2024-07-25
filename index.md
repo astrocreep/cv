@@ -38,14 +38,89 @@ __Studium Medientechnik, TU Ilmenau__
 ## Games
 
 ### Almost Heroic
+__Playata Gmbh__ Casual RPG
+
 `Client`
-TypeScript, PixiJS, Capacitor.js
+TypeScript + Pixi.js (Capacitor.js für Mobile)
 
 `Backend`
-AWS Apigateway, Lambda, DynamoDB, Kinesis, Redshift, Redis, PHP, MySQL
+AWS Apigateway + Lambda + DynamoDB
 
 `Platforms`
 iOS, Android
+
+### Hero Zero
+__Playata Gmbh__ Click and Idle RPG
+
+`Client`
+V1: Flash (HTML + Wrapper App für Mobile), V2: Flash + Starling (Adobe Air für Mobile), V3: Haxe + Starling (Capacitor.js für Mobile)
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+Web, iOS, Android, Facebook, Steam
+
+### Big Bang Empire
+__Playata Gmbh__ Click and Idle RPG
+
+`Client`
+V1: Flash, V2: Flash + Starling, V3: Haxe + Starling
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+Web, Steam
+
+### Operation X
+__Playata Gmbh__ Click and Idle RPG
+
+`Client`
+Flash
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+Web, Facebook
+
+### Tiles & Tales
+__Playata Gmbh__ Match X RPG
+
+`Client`
+Flash (Adobe Air für Mobile)
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+iOS, Android, Facebook, Steam
+
+### Vixen Wars
+__Trillith Entertainment__ NSFW Tower Defense RPG
+
+`Client`
+Haxe + Starling (PWA für iOS, AdobeAir für Android)
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+Nutaku, Steam
+
+### BustyBiz
+__Trillith Entertainment__ Idle Miner NSFW Game
+
+`Client`
+Haxe + Starling (PWA für iOS, AdobeAir für Android)
+
+`Backend`
+PHP + MySQL
+
+`Platforms`
+Nutaku, Steam
+
 
 ## Contact
 __Florian Hofmann__
