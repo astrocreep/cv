@@ -5,12 +5,8 @@ title: Florian Hofmann
 # Florian Hofmann
 Game developer.
 
-<div id="address">
-  Malmsbacher Weg 11B
-  90571 Schwaig bei Nürnberg
-  +49 175 6695817
-  <a href="http://astrocreep.de">astrocreep.de</a>
-  <a href="florian@astrocreep.de">florian@astrocreep.de</a>
+<div id="webaddress">
+  <a href="http://astrocreep.de">astrocreep.de</a> | <a href="florian@astrocreep.de">florian@astrocreep.de</a>
 </div>
 
 
@@ -50,6 +46,15 @@ AWS Apigateway, Lambda, DynamoDB, Kinesis, Redshift, Redis, PHP, MySQL
 
 `Platforms`
 iOS, Android
+
+## Contact
+__Florian Hofmann__
+
+Malmsbacher Weg 11B
+
+90571 Schwaig bei Nürnberg
+
++49 175 6695817
 
 
 
