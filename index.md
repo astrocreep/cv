@@ -6,27 +6,27 @@ title: Florian Hofmann
 Game developer.
 
 <div id="webaddress">
-  <a href="http://astrocreep.de">astrocreep.de</a> | <a href="florian@astrocreep.de">florian@astrocreep.de</a> | <a href="https://astrocreep.github.io/cv/">astrocreep.github.io/cv/</a> | <a href="https://www.xing.com/profile/Florian_Hofmann28">Xing</a>
+  <a href="http://astrocreep.de">astrocreep.de</a> | <a href="florian@astrocreep.de">florian@astrocreep.de</a> | <a href="https://astrocreep.github.io/cv/">astrocreep.github.io/cv/</a> | <a href="https://www.xing.com/profile/Florian_Hofmann28">xing</a>
 </div>
 
 <br>
 
 ## Über mich
 
-__Hallo Michael__
+`Anschreiben`
 
-__Hallo Lotum__
+__Hallo Michael, hallo Lotum__
 
-auf der Suche nach einer neuen Herausforderung bin ich auf Eure Stellenausschreibung gestoßen und bin sehr an der Stelle interessiert. Von nun an gibts kein klassisches Anschreiben mehr. Ich denke, Ihr haben schon genug der Art im ChatGPT-Stil gelesen.
+Spoiler: von nun an gibt's kein _klassisches_ Anschreiben mehr. Ich denke, Ihr haben schon genug der Art im ChatGPT-Stil gelesen.
 
-Ich bin Entwickler mit über 20 Jahren Erfahrung. Angefangen habe ich in der Werbebranche und dort für Kunden wie Siemens, BMW, Vichy, Glashütte, DATEV und viele mehr gearbeitet. Meine Leidenschaft für Spiele führte zu einem kleinen Indie-Studio mit ein paar Freunden. Parallel dazu gründete ich (zusammen mit Michael Wacker) ein Meetup hier in Nürnberg, um eine Homebase für alle Spieleinteressierten zu schaffen (Indie Outpost). 2013 hatte ich dann die Möglichkeit, hauptberuflich als Spieleentwickler zu arbeiten. Ich werde nie zurückblicken und die Branche nie verlassen. Ich habe meinen Platz gefunden :) Einfach der beste Job der Welt.
+Ich bin Entwickler mit über 20 Jahren Erfahrung. Angefangen habe ich in der Werbebranche und dort für Kunden wie Siemens, BMW, Vichy, Glashütte, DATEV und viele mehr gearbeitet. Meine Leidenschaft für Spiele führte zu einem kleinen Indie-Studio mit ein paar Freunden. Parallel dazu gründete ich zusammen mit Michael Wacker hier in Nürnberg ein Meetup, um eine Homebase für alle Spieleinteressierten zu schaffen (Indie Outpost). 2013 hatte ich dann die Möglichkeit, hauptberuflich als Spieleentwickler zu arbeiten. Chance genutzt und hier bin ich. Ich werde nie zurückblicken und die Branche nie verlassen. Ich habe meinen Platz gefunden :) Einfach der beste Job der Welt.
 
-Angesichts meines Hintergrunds als Webentwickler lag es auf der Hand, Spiele mit diesen Technologien zu entwickeln. In den letzten Jahren habe ich sechs Titel als leitender Entwickler veröffentlicht. Ich war für den Client- und Backend-Code verantwortlich.
-Der Tech-Stack für mein neuestes Spiel 'Almost Heroic' besteht aus TypeScript und PixiJS für den Client mit Vite als Build-Tool. Die mobilen Versionen verwenden Capacitor.js. Das Spiel-Backend ist auch in TypeScript gecodet, läuft dann in AWS Lambdas und DynamoDB als Datenbnk. Die Kommunikation erfolgt über WebSockets und API Gateway. Die Benutzerverwaltung und Zahlungsabwicklung erfolgt weiterhin mit PHP und MySQL, da dieser Teil für uns funktioniert hat. Ich war also mehr auf AWS unterwegs, denn auf Google, wie eure Projekte. Ich denke aber das Basiswissen sollte easy transferierbar sein.
-Das Spiel gibts in den App Stores oder hier der Link zum Testserver: [Almost Heroic](https://test.almost-heroic.com)
+Angesichts meines Hintergrunds als Webentwickler lag es auf der Hand, Spiele mit diesen Technologien zu entwickeln. In den letzten Jahren habe ich sechs Titel als leitender Entwickler veröffentlicht. Ich war für den Client- und Backend-Code verantwortlich. Bei weiteren Titeln dann in unterstützender Rolle oder um Sachen aus meinen Spielen in die jeweils vorhandenen Projekte zu integrieren.
+Der Tech-Stack für mein neuestes Spiel 'Almost Heroic' besteht aus TypeScript und PixiJS für den Client mit Vite als Build-Tool. Die mobilen Versionen verwenden Capacitor.js. Das Spiel-Backend ist auch in TypeScript gecodet, läuft dann in AWS Lambdas und DynamoDB als Datenbnk (via CDK). Die Kommunikation erfolgt über WebSockets und API Gateway. Die Benutzerverwaltung und Zahlungsabwicklung erfolgt weiterhin mit PHP und MySQL, da dieser Teil für uns funktioniert hat. Ich war also mehr auf AWS unterwegs, denn auf Google, wie eure Projekte. Ich denke aber das Basiswissen sollte easy transferierbar sein.
+Das Spiel gibt's in den App Stores oder hier der Link zum Testserver: [Almost Heroic](https://test.almost-heroic.com)
 Weitere Spiele sind unten in der Liste aufgeführt. Die Spiele für Trillith sind alls NSFW, falls ihr die sucht. Nicht wundern, manchmal muss man einfach Geld verdienen...
 
-Ich habe ein tiefgreifendes Verständnis, wie die Dinge bei der Entwicklung von Spielen ineinandergreifen. Prototypen neuer Ideen und deren Umsetzung in wiederverwendbaren Code ist mein tägliches Geschäft. Ich bin ein großer Fan von kontinuierlichem Refactoring, um die Codebasis zu verbessern und Ordnung zu halten. Ja, ich bin ein Programmierer, habe aber auch ein gutes Gespür für Design und Animationen. Letzteres ist auch meine persönliche Superkraft, ich sehe die kleinsten Dinge, die im Timing einer Animation nicht stimmen.
+Ich habe ein tiefgreifendes Verständnis, wie die Dinge bei der Entwicklung von Spielen ineinandergreifen. Prototypen neuer Ideen und deren Umsetzung in wiederverwendbaren Code ist also Daily Business. Ich bin ein großer Fan von kontinuierlichem Refactoring, um die Codebasis zu verbessern und Ordnung zu halten. Auch wenn ich mich als Coder durch und durch sehe, habe aber auch ein gutes Gespür für Design und Animationen. Letzteres ist auch meine persönliche Superkraft, ich sehe die kleinsten Dinge, die im Timing einer Animation nicht stimmen. UIs umsetzen oder selber erstellen nach gewissen Styleguides ist also auch kein Problem.
 
 Ich freue mich darauf, von Euch zu hören. Wenn Ihr Fragen haben, können Ihr mich gerne jederzeit kontaktieren. Die Verfügbarkeit muss besprochen werden. Der späteste Termin wäre Dezember, aber ich bin mir ziemlich sicher, dass es dafür eine Lösung geben wird.
 
@@ -59,6 +59,9 @@ __Mediengestalter__ Publicis
 `08/1998 - 08/2000`
 __Medientechnik__ TU Ilmenau
 
+`1997`
+__Abitur__ Helene-Lange-Gymnasium Fürth (Leistungskurse: Mathe und Kunst)
+
 
 ## Games
 
@@ -66,13 +69,14 @@ __Medientechnik__ TU Ilmenau
 
 __Almost Heroic__
 
+`Genre`
 Casual RPG
 
 `Client`
 TypeScript, Pixi.js, Capacitor.js
 
 `Backend`
-AWS Apigateway, Lambda, DynamoDB, Redshift, Redis, Kinesis, PHP, MySQL
+AWS Apigateway, Lambda, DynamoDB, Redshift, Redis, Kinesis Firehose, PHP, MySQL
 
 `Platforms`
 iOS, Android
@@ -81,6 +85,7 @@ iOS, Android
 
 __Hero Zero__
 
+`Genre`
 Click and Wait Idle RPG
 
 `Client`
@@ -100,6 +105,7 @@ Web, iOS, Android, Facebook, Steam
 
 __Big Bang Empire__
 
+`Genre`
 Click and Wait Idle RPG
 
 `Client`
@@ -117,8 +123,9 @@ Web, Steam
 
 <br>
 
-__Operation X__
+__Operation X__ _eingestellt_
 
+`Genre`
 Click and Wait Idle RPG
 
 `Client`
@@ -132,8 +139,9 @@ Web, Facebook
 
 <br>
 
-__Tiles & Tales__
+__Tiles & Tales__ _eingestellt_
 
+`Genre`
 Match X RPG
 
 `Client`
@@ -150,6 +158,7 @@ iOS, Android, Facebook, Steam
 
 __Vixen Wars__
 
+`Genre`
 NSFW Tower Defense RPG
 
 `Client`
@@ -165,6 +174,7 @@ Nutaku, Steam
 
 __BustyBiz__
 
+`Genre`
 NSFW Cookie Clicker / Idle Miner
 
 `Client`
@@ -178,8 +188,9 @@ Nutaku, Steam
 
 <br>
 
-__Naughty Kingdom__
+__Naughty Kingdom__ _eingestellt_
 
+`Genre`
 Match X NSFW RPG
 
 `Client`
@@ -199,8 +210,11 @@ Malmsbacher Weg 11B
 
 90571 Schwaig bei Nürnberg
 
-`Phone`
+`Telefon`
 +49 175 6695817
+
+`Mail`
+[florian@astrocreep.de](mailto:florian@astrocreep.de)
 
 
 
