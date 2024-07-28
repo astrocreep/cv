@@ -14,6 +14,7 @@ Game developer.
 ## Über mich
 
 __Hallo Michael__
+
 __Hallo Lotum__
 
 auf der Suche nach einer neuen Herausforderung bin ich auf Eure Stellenausschreibung gestoßen und bin sehr an der Stelle interessiert. Von nun an gibts kein klassisches Anschreiben mehr. Ich denke, Ihr haben schon genug der Art im ChatGPT-Stil gelesen.
