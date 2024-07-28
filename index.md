@@ -9,6 +9,27 @@ Game developer.
   <a href="http://astrocreep.de">astrocreep.de</a> | <a href="florian@astrocreep.de">florian@astrocreep.de</a> | <a href="https://astrocreep.github.io/cv/">astrocreep.github.io/cv/</a>
 </div>
 
+Hallo Michael,
+Hallo Lotum
+
+auf der Suche nach einer neuen Herausforderung bin ich auf Eure Stellenausschreibung gestoßen und bin sehr an der Stelle interessiert. Von nun an gibts kein klassisches Anschreiben mehr. Ich denke, Ihr haben schon genug der Art im ChatGPT-Stil gelesen.
+
+Ich bin Entwickler mit über 20 Jahren Erfahrung. Angefangen habe ich in der Werbebranche und dort für Kunden wie Siemens, BMW, Vichy, Glashütte, DATEV und viele mehr gearbeitet. Meine Leidenschaft für Spiele führte zu einem kleinen Indie-Studio mit ein paar Freunden. Parallel dazu gründete ich (zusammen mit Michael Wacker) ein Meetup hier in Nürnberg, um eine Homebase für alle Spieleinteressierten zu schaffen (Indie Outpost). 2013 hatte ich dann die Möglichkeit, hauptberuflich als Spieleentwickler zu arbeiten. Ich werde nie zurückblicken und die Branche nie verlassen. Ich habe meinen Platz gefunden :) Einfach der beste Job der Welt.
+
+Angesichts meines Hintergrunds als Webentwickler lag es auf der Hand, Spiele mit diesen Technologien zu entwickeln. In den letzten Jahren habe ich sechs Titel als leitender Entwickler veröffentlicht. Ich war für den Client- und Backend-Code verantwortlich.
+Der Tech-Stack für mein neuestes Spiel 'Almost Heroic' besteht aus TypeScript und PixiJS für den Client mit Vite als Build-Tool. Die mobilen Versionen verwenden Capacitor.js. Das Spiel-Backend ist auch in TypeScript gecodet, läuft dann in AWS Lambdas und DynamoDB als Datenbnk. Die Kommunikation erfolgt über WebSockets und API Gateway. Die Benutzerverwaltung und Zahlungsabwicklung erfolgt weiterhin mit PHP und MySQL, da dieser Teil für uns funktioniert hat. Ich war also mehr auf AWS unterwegs, denn auf Google, wie eure Projekte. Ich denke aber das Basiswissen sollte easy transferierbar sein.
+Das Spiel gibts in den App Stores oder hier der Link zum Testserver: https://test.almost-heroic.com
+Weitere Spiele sind unten in der Liste aufgeführt. Die Spiele für Trillith sind alls NSFW, falls ihr die sucht. Nicht wundern, manchmal muss man einfach Geld verdienen...
+
+Ich habe ein tiefgreifendes Verständnis, wie die Dinge bei der Entwicklung von Spielen ineinandergreifen. Prototypen neuer Ideen und deren Umsetzung in wiederverwendbaren Code ist mein tägliches Geschäft. Ich bin ein großer Fan von kontinuierlichem Refactoring, um die Codebasis zu verbessern und Ordnung zu halten. Ja, ich bin ein Programmierer, habe aber auch ein gutes Gespür für Design und Animationen. Letzteres ist auch meine persönliche Superkraft, ich sehe die kleinsten Dinge, die im Timing einer Animation nicht stimmen.
+
+Ich freue mich darauf, von Euch zu hören. Wenn Ihr Fragen haben, können Ihr mich gerne jederzeit kontaktieren. Die Verfügbarkeit muss besprochen werden. Der späteste Termin wäre Dezember, aber ich bin mir ziemlich sicher, dass es dafür eine Lösung geben wird.
+
+Beste Grüße
+Florian Hofmann
+
+P.S.: Ich liebe die Arbeit mit Copilot in VSCode, ChatGPT für RegEx (jeder hat seine Schwachstellen...), also kein KI-Hate von meiner Seite, ich wollte nur ein 'echtes' Anschreiben schreiben :)
+
 
 ## Professional Experience
 
