@@ -14,10 +14,9 @@ Game developer.
 ## Über mich
 
 `Anschreiben`
+__Hallo Michael, hallo Lotum,__
 
-__Hallo Michael, hallo Lotum__
-
-Spoiler: von nun an gibt's kein _klassisches_ Anschreiben mehr. Ich denke, Ihr haben schon genug der Art im ChatGPT-Stil gelesen.
+Spoiler: von nun an gibt's kein klassisches Anschreiben mehr. Ich denke, Ihr haben schon genug der Art im ChatGPT-Stil gelesen.
 
 Ich bin Entwickler mit über 20 Jahren Erfahrung. Angefangen habe ich in der Werbebranche und dort für Kunden wie Siemens, BMW, Vichy, Glashütte, DATEV und viele mehr gearbeitet. Meine Leidenschaft für Spiele führte zu einem kleinen Indie-Studio mit ein paar Freunden. Parallel dazu gründete ich zusammen mit Michael Wacker hier in Nürnberg ein Meetup, um eine Homebase für alle Spieleinteressierten zu schaffen (Indie Outpost). 2013 hatte ich dann die Möglichkeit, hauptberuflich als Spieleentwickler zu arbeiten. Chance genutzt und hier bin ich. Ich werde nie zurückblicken und die Branche nie verlassen. Ich habe meinen Platz gefunden :) Einfach der beste Job der Welt.
 
@@ -27,6 +26,8 @@ Das Spiel gibt's in den App Stores oder hier der Link zum Testserver: [Almost He
 Weitere Spiele sind unten in der Liste aufgeführt. Die Spiele für Trillith sind alls NSFW, falls ihr die sucht. Nicht wundern, manchmal muss man einfach Geld verdienen...
 
 Ich habe ein tiefgreifendes Verständnis, wie die Dinge bei der Entwicklung von Spielen ineinandergreifen. Prototypen neuer Ideen und deren Umsetzung in wiederverwendbaren Code ist also Daily Business. Ich bin ein großer Fan von kontinuierlichem Refactoring, um die Codebasis zu verbessern und Ordnung zu halten. Auch wenn ich mich als Coder durch und durch sehe, habe aber auch ein gutes Gespür für Design und Animationen. Letzteres ist auch meine persönliche Superkraft, ich sehe die kleinsten Dinge, die im Timing einer Animation nicht stimmen. UIs umsetzen oder selber erstellen nach gewissen Styleguides ist also auch kein Problem.
+
+Eine eurer Anforderungen ist ja Vue. Ich habe noch kein releastes Spiel, jedoch eines in den Startlöchern. Da das privat entstanden ist, mein aktueller Arbeitgeber mir das jedoch vertraglich verbietet, kann ich es (noch) nicht zeigen. Das oben angesprochene Almost Heroic nutzt z.B. das ganze Reactivity-Modul von Vue. Da ich hier auf PixiJS mit WebGL setze, brauchte ich nicht das ganze Framework. Works like a charm!
 
 Ich freue mich darauf, von Euch zu hören. Wenn Ihr Fragen haben, können Ihr mich gerne jederzeit kontaktieren. Die Verfügbarkeit muss besprochen werden. Der späteste Termin wäre Dezember, aber ich bin mir ziemlich sicher, dass es dafür eine Lösung geben wird.
 
@@ -123,7 +124,23 @@ Web, Steam
 
 <br>
 
-__Operation X__ _eingestellt_
+__Villain Academy__ (_eingestellt_)
+
+`Genre`
+Cookie Clicker
+
+`Client`
+Haxe, Capacitor.js
+
+`Backend`
+PHP, MySQL
+
+`Platforms`
+iOS, Android
+
+<br>
+
+__Operation X__ (_eingestellt_)
 
 `Genre`
 Click and Wait Idle RPG
@@ -139,7 +156,7 @@ Web, Facebook
 
 <br>
 
-__Tiles & Tales__ _eingestellt_
+__Tiles & Tales__ (_eingestellt_)
 
 `Genre`
 Match X RPG
@@ -188,7 +205,7 @@ Nutaku, Steam
 
 <br>
 
-__Naughty Kingdom__ _eingestellt_
+__Naughty Kingdom__ (_eingestellt_)
 
 `Genre`
 Match X NSFW RPG
@@ -202,6 +219,13 @@ PHP, MySQL
 `Platforms`
 Nutaku
 
+## Technologien
+
+`Hardware`
+MacBook Pro, Magic Mouse, mechanical US Layout Keyboard (Nerd...), 49" Ultrawide Monitor, iPhone
+
+`Software`
+VSCode, Typescript, ESLint, Docker, Hyper, Photoshop, Spine, Articy Draft, XCode, Android Studio, Copilot, ChatGPT, DeepL
 
 ## Kontakt
 
