@@ -23,7 +23,7 @@ Ich bin Entwickler mit über 20 Jahren Erfahrung. Angefangen habe ich in der Wer
 Angesichts meines Hintergrunds als Webentwickler lag es auf der Hand, Spiele mit diesen Technologien zu entwickeln. In den letzten Jahren habe ich sechs Titel als leitender Entwickler veröffentlicht. Ich war für den Client- und Backend-Code verantwortlich. Bei weiteren Titeln dann in unterstützender Rolle oder um Sachen aus meinen Spielen in die jeweils vorhandenen Projekte zu integrieren.
 Der Tech-Stack für mein neuestes Spiel 'Almost Heroic' besteht aus TypeScript und PixiJS für den Client mit Vite als Build-Tool. Die mobilen Versionen verwenden Capacitor.js. Das Spiel-Backend ist auch in TypeScript gecodet, läuft dann in AWS Lambdas und DynamoDB als Datenbnk (via CDK). Die Kommunikation erfolgt über WebSockets und API Gateway. Die Benutzerverwaltung und Zahlungsabwicklung erfolgt weiterhin mit PHP und MySQL, da dieser Teil für uns funktioniert hat. Ich war also mehr auf AWS unterwegs, denn auf Google, wie eure Projekte. Ich denke aber das Basiswissen sollte easy transferierbar sein.
 Das Spiel gibt's in den App Stores oder hier der Link zum Testserver: [Almost Heroic](https://test.almost-heroic.com)
-Weitere Spiele sind unten in der Liste aufgeführt. Die Spiele für Trillith sind alls NSFW, falls ihr die sucht. Nicht wundern, manchmal muss man einfach Geld verdienen...
+Weitere Spiele sind unten in der Liste aufgeführt. Die Spiele für Trillith sind alle NSFW, bitte nicht erschrecken. Manchmal muss man einfach Geld verdienen...
 
 Ich habe ein tiefgreifendes Verständnis, wie die Dinge bei der Entwicklung von Spielen ineinandergreifen. Prototypen neuer Ideen und deren Umsetzung in wiederverwendbaren Code ist also Daily Business. Ich bin ein großer Fan von kontinuierlichem Refactoring, um die Codebasis zu verbessern und Ordnung zu halten. Auch wenn ich mich als Coder durch und durch sehe, habe aber auch ein gutes Gespür für Design und Animationen. Letzteres ist auch meine persönliche Superkraft, ich sehe die kleinsten Dinge, die im Timing einer Animation nicht stimmen. UIs umsetzen oder selber erstellen nach gewissen Styleguides ist also auch kein Problem.
 
@@ -61,14 +61,12 @@ __Mediengestalter__ Publicis
 __Medientechnik__ TU Ilmenau
 
 `1997`
-__Abitur__ Helene-Lange-Gymnasium Fürth (Leistungskurse: Mathe und Kunst)
+__Abitur__ Helene-Lange-Gymnasium Fürth, Leistungskurse Mathe & Kunst
 
 
-## Games
+## Games Playata GmbH
 
-### Playata GmbH
-
-__Almost Heroic__
+### Almost Heroic
 
 `Genre`
 Casual RPG
@@ -82,9 +80,7 @@ AWS Apigateway, Lambda, DynamoDB, Redshift, Redis, Kinesis Firehose, PHP, MySQL
 `Platforms`
 iOS, Android
 
-<br>
-
-__Hero Zero__
+### Hero Zero
 
 `Genre`
 Click and Wait Idle RPG
@@ -102,9 +98,7 @@ PHP, MySQL
 `Platforms`
 Web, iOS, Android, Facebook, Steam
 
-<br>
-
-__Big Bang Empire__
+### Big Bang Empire
 
 `Genre`
 Click and Wait Idle RPG
@@ -122,9 +116,7 @@ PHP, MySQL
 `Platforms`
 Web, Steam
 
-<br>
-
-__Villain Academy__ (_eingestellt_)
+### Villain Academy
 
 `Genre`
 Cookie Clicker
@@ -138,9 +130,9 @@ PHP, MySQL
 `Platforms`
 iOS, Android
 
-<br>
+Dieser Titel wurde leider schon eingestellt.
 
-__Operation X__ (_eingestellt_)
+### Operation X
 
 `Genre`
 Click and Wait Idle RPG
@@ -154,9 +146,9 @@ PHP, MySQL
 `Platforms`
 Web, Facebook
 
-<br>
+Dieser Titel wurde leider schon eingestellt.
 
-__Tiles & Tales__ (_eingestellt_)
+### Tiles & Tales
 
 `Genre`
 Match X RPG
@@ -170,10 +162,11 @@ PHP, MySQL
 `Platforms`
 iOS, Android, Facebook, Steam
 
+Dieser Titel wurde leider schon eingestellt.
 
-### Trillith Entertainment
+## Games Trillith Entertainment
 
-__Vixen Wars__
+### Vixen Wars
 
 `Genre`
 NSFW Tower Defense RPG
@@ -187,9 +180,7 @@ PHP, MySQL
 `Platforms`
 Nutaku, Steam
 
-<br>
-
-__BustyBiz__
+### BustyBiz
 
 `Genre`
 NSFW Cookie Clicker / Idle Miner
@@ -203,9 +194,7 @@ PHP, MySQL
 `Platforms`
 Nutaku, Steam
 
-<br>
-
-__Naughty Kingdom__ (_eingestellt_)
+### Naughty Kingdom
 
 `Genre`
 Match X NSFW RPG
@@ -218,6 +207,8 @@ PHP, MySQL
 
 `Platforms`
 Nutaku
+
+Dieser Titel wurde leider schon eingestellt.
 
 ## Technologien
 
